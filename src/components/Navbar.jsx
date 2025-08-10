@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom'
 import ThemeToggle from './ThemeToggle'
-import logo from '../assets/images/Janindu.png'
+import logo from '../assets/images/janindu.png'
 
 const Navbar = ({ darkMode, setDarkMode }) => {
   return (
