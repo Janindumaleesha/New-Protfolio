@@ -1,9 +1,9 @@
 import { motion } from 'framer-motion'
 import CertificateCard from '../components/CertificateCard'
-import certificate1 from '../assets/images/certificate1.png'
-import certificate2 from '../assets/images/certificate2.png'
-import certificate3 from '../assets/images/certificate3.jpg'
-import certificate4 from '../assets/images/certificate4.jpg'
+import certificate1 from '../assets/certificate1.png'
+import certificate2 from '../assets/certificate2.png'
+import certificate3 from '../assets/certificate3.jpg'
+import certificate4 from '../assets/certificate4.jpg'
 
 const Certificates = () => {
   const certificates = [
